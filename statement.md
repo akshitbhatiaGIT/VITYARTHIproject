@@ -12,14 +12,14 @@ General checkout systems are complex and inefficient to use for small businesses
 **Target users:-**
 
 * Small shop owners/staff who need a simple yet efficient checkout solutionn.
-Small hotel shops that cannot invest money but need a small yet effective software.
-Students learning basic business projects.
+* Small hotel shops that cannot invest money but need a small yet effective software.
+* Students learning basic business projects.
 
 **High level features:-**
 
 * Effective UI with enhanced layout.
-Add,edit and remove items.
-Real time total calculation.
-Receipt generation with grand total.
-Efficient for instant use.
+* Add,edit and remove items.
+* Real time total calculation.
+* Receipt generation with grand total.
+* Efficient for instant use.
   
