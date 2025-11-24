@@ -1,23 +1,25 @@
-Problem Statement:-
+**Problem Statement:-**
 
-Managing hotel room bookings manually is very tough and inefficent, moreover can lead to discrepancies, hence the need for an automated system for booking of a room,tracking records to integrated payment solving the issue of manual management.
+General checkout systems are complex and inefficient to use for small businesses, hence a need for a simple and easy-to-use solution that allows basic receipt geneneration along with total calculation.
 
-Scope of the project:-
+**Scope of the project:-**
 
-The project implements a graphical desktop application for hotel management, including room booking, customer records, and payment.
+The project implements a graphical desktop application for a cashier checkout simulator, including adding items, calculation of price, and receipt generation.
 Data is stored in the current memory, can be stored in SQL databases.
-The system provides searching/filtering of recordsfor user inputs.
+The system provides item entry, updating & removing items, display items.
+The system also provides calculation of the overall totle and receipt generation.
 
-Target users:-
+**Target users:-**
 
-Receptionists who need a simple tool for managing daily bookings and payments.
-Small hotels that cannot invest money but need a small yet effective software.
-Students learning basic projects.
+Small shop owners/staff who need a simple yet efficient checkout solutionn.
+Small hotel shops that cannot invest money but need a small yet effective software.
+Students learning basic business projects.
 
-High level features:-
+**High level features:-**
 
-Room booking with easier way of picking dates using calenders.
-Prace calculation based on stay duration.
-Automated assignment of room number and customer ID.
-Search feature for admin who need to view booking records.
-Payment tracking feature for each booking.
+Effective UI with enhanced layout.
+Add,edit and remove items.
+Real time total calculation.
+Receipt generation with grand total.
+Efficient for instant use.
+  
