@@ -1,4 +1,4 @@
-  Project Title: Hotel Havana Management System
+#  **Project Title: Hotel Havana Management System**
 
   Project Overview:
   
@@ -6,7 +6,7 @@
 
   Features:
 
-  1. Book rooms by entering personal details, and stay dates.
+* 1. Book rooms by entering personal details, and stay dates.
   2. Automates assignment of room number and customer ID.
   3. Admins can search booking records via name or phone.
   4. Payment tracking is integrated within the application.
